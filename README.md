@@ -1,3 +1,15 @@
+# Welcom
+
+
+My training with VUE how to create SPA (tasks)
+
+
+
+
+
+
+
+
 # vue-application-spa
 
 ## Project setup
